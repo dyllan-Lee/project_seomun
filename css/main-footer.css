@@ -1,0 +1,22 @@
+.footer {
+  width: auto;
+  /* height: 100px; */
+  background-color: rgb(20, 20, 20);
+  color: #eeeeee;
+  margin-top: 1px;
+  /* overflow: hidden; */
+}
+
+.footer .inner-footer .ft-con .bottom-con {
+  width: auto;
+  display: block;
+  object-fit: cover;
+  text-align: center;
+  padding-top: 50px;
+}
+
+@media(max-width:680px) {
+  .footer .inner-footer .ft-con .bottom-con p {
+    font-size: 10px;
+  }
+}
