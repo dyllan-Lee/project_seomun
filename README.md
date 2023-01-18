@@ -8,7 +8,8 @@ html5 ,css3 에 대해서 배우고 가장 먼저 제작해본 웹제작페이�
 <div>
 
 <img src='https://github.com/dyllan-Lee/project_seomun/blob/main/main1.png' width = 300 height = 500>
-<img src='https://github.com/dyllan-Lee/project_seomun/blob/main/main-tablet.png' widht = 300 height = 500>
+<img src='https://github.com/dyllan-Lee/project_seomun/blob/main/main-tablet.png' height = 500 >
+<img src='https://github.com/dyllan-Lee/project_seomun/blob/main/main-mobile.png' height = 500 >
 
   
  </div> 
@@ -17,6 +18,7 @@ html5 ,css3 에 대해서 배우고 가장 먼저 제작해본 웹제작페이�
 
 pc, 태블릿, 모바일 등 크게 3개의 단계에 나누어서 작성 하였습니다.
 
+웹페이지 구조를 파악하고 html로 설게하는 능력을 길렀으며 css로 디자인을 컨트롤 하는 방법을 익혔습니다.
 
 
 
