@@ -8,6 +8,7 @@ html5 ,css3 에 대해서 배우고 가장 먼저 제작해본 웹제작페이�
 <div>
 
 <img src='https://github.com/dyllan-Lee/project_seomun/blob/main/main1.png' width = 300 height = 500>
+<img src='https://github.com/dyllan-Lee/project_seomun/blob/main/main-tablet.png' widht = 300 height = 500>
 
   
  </div> 
